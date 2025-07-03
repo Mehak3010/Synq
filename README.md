@@ -34,11 +34,6 @@ Also includes Emoji Support:-
 ![image](https://github.com/user-attachments/assets/e51ecdbe-f6a4-4dbd-bae4-1c1d0892eec8)
 
 
-
-### 4. Bot Greeting
-(![Uploading image.png…]()
-)
-
 > 📁 All screenshots should be saved in a `screenshots/` folder in the root of your project.
 
 ---
