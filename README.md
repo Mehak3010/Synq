@@ -33,9 +33,6 @@ Also includes Emoji Support:-
 
 ![image](https://github.com/user-attachments/assets/e51ecdbe-f6a4-4dbd-bae4-1c1d0892eec8)
 
-
-> 📁 All screenshots should be saved in a `screenshots/` folder in the root of your project.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -66,22 +63,7 @@ Also includes Emoji Support:-
 
 ## 📁 Folder Structure
 
-Synq/
-├── screenShots/
-├── public/
-│ └── index.html
-├── src/
-│ ├── assets/
-│ ├── components/
-│ ├── pages/
-│ └── utils/
-├── server/
-│ ├── controllers/
-│ ├── models/
-│ └── routes/
-├── .env.example
-├── Dockerfile
-├── package.json
-└── README.md
+![image](https://github.com/user-attachments/assets/9a1ca457-a1d2-4966-9cbc-7623c20769fa)
+
 
 
