@@ -29,9 +29,11 @@ app.get("/ping", (_req, res) => {
 app.use("/api/auth", authRoutes);
 app.use("/api/messages", messageRoutes);
 
-const server = app.listen(process.env.PORT, '0.0.0.0', () =>
-  console.log(`Server started on ${process.env.PORT}`)
-);
+const PORT = process.env.PORT || 5000;
+
+const server = app.listen(PORT, "0.0.0.0", () => {
+  console.log(`Server started on port ${PORT}`);
+});
 
 const io = socket(server, {
   cors: {
